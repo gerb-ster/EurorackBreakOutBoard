@@ -1,7 +1,7 @@
 {
     "Header": {
         "Comment": "All values are metric (mm)",
-        "CreationDate": "2022-04-22T14:15:11Z",
+        "CreationDate": "2022-05-04T14:02:31Z",
         "GenerationSoftware": {
             "Application": "EAGLE",
             "Vendor": "Autodesk",
@@ -17,7 +17,7 @@
         },
         "Owner": "Gerb Sterrenburg <gerb@gerbster.nl>",
         "Size": {
-            "X": 55.88,
+            "X": 53.34,
             "Y": 33.655
         }
     }
