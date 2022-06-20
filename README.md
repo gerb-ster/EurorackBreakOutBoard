@@ -9,5 +9,7 @@ provides a power connector, power indicator lights and some I/O terminals.
 - Power indicator led for both +12v and -12v rails
 - Selectable ground rails
 
- 
-This project is sponsered by [PCBWay](https://www.pcbway.com/?from=gerbster).
+
+## Sponsoring
+
+This project was kindly sponsored by [PCBWay](https://www.pcbway.com/?from=gerbster). They offer a fast and very affordable PCB manufacturing service. I find that their ordering process is very intuitive and the boards are of exceptional quality, so I highly recommend them.
